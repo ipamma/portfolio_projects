@@ -1,0 +1,1 @@
+Projects to showcase to potential employers and build/refine coding skills.
